@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=c9ad9321-5a1e-4943-b974-5384d5737d1b
-WSPATH=/adc9e
+UUID=c9ad9321-5a1e-4943-b479-5384d5737d1d
+WSPATH=/c9e
 PORT=80
 
 
